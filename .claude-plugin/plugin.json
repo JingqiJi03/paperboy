@@ -1,0 +1,8 @@
+{
+  "name": "paper-agent",
+  "description": "Daily/weekly research-paper digest skills. Use /paper-daily <topic> <keywords...> for a daily roundup and /paper-weekly for a weekly synthesis. Searches arXiv/web, dedups, ranks by relevance to your topic, and writes structured Chinese (or English) reports in your project directory.",
+  "version": "0.1.0",
+  "author": { "name": "jijingqi" },
+  "license": "MIT",
+  "keywords": ["papers", "research", "arxiv", "digest", "daily", "weekly", "skill"]
+}
